@@ -32,7 +32,6 @@ package_blacklist:
   - libpointmatcher
   - libsegwayrmp
   - libvimba
-  - mapviz
   - micros_rtt
   - multires_image
   - nao_meshes
